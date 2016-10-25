@@ -1,5 +1,5 @@
 # snow-aws-requester
-ServiceNow Script Include library for signing AWS requests
+ServiceNow Script Include library for signing and submitting AWS requests
 
 Setup
 -----
