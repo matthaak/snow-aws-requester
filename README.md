@@ -23,7 +23,7 @@ The library is useless by itself. You must build your own includes that extend R
 ~~~~
 gs.include('SnowLib.AWS.Requester.Request');
 
-AcmeAwsSnsCreatePlatformEndpoint = function(reqParams, propGetter) {
+var AcmeAwsSnsCreatePlatformEndpoint = function(reqParams, propGetter) {
 
   propGetter = propGetter || gs;
 
